@@ -4,11 +4,13 @@ This is a simple Bitcoin wallet scrapper it's checks random wallets that it gene
 More info - https://t.me/bitgen2
 
 **Development setup**
+
 pip install -r requirments.txt
 
 python3.8 main.py
 
 **Windows setup**
+
 pip install -r requirments.txt
 
 start.bat
